@@ -18,3 +18,5 @@ Installation tips: for the beginners, MiKTeX is a good choice as TeX file genera
 Here is a good start for you to get familiar with LaTeX, David R. Wilkins (1995) Getting Started with LaTeX. You can get a free access via the following link: free to access. https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/. 
  
 School of Finance adopts Harvard reference system for any academic related reports, assignments, and dissertations. Please read the reference style here (http://wwwdocs.fce.unsw.edu.au/fce/EDU/harvard_ref_guide.pdf). In LaTeX, it is done by natbib package, https://www.ctan.org/pkg/natbib
+
+Remember only Harvard reference system is accepted.
