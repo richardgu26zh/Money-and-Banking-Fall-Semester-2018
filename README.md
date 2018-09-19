@@ -3,7 +3,7 @@ This repository is for international students that enroll in Money and Banking c
 
 A few things to be noted: 
 
-1. Whoever that be absent from lectures over 1/3 is not egilible for finals nor makeup exams. Students with a sick leave should bring a formal hospital documents to course instructors or to Joyce, director of student affairs, School of Finance (Room 840, the Executive Building), within a week. For students who take more than 3-week leave, an official statement should be approved by the Dean of faculty. 
+1. Whoever that be absent from lectures over 1/3 is not eligible for finals nor makeup exams. Students with a sick leave should bring a formal hospital documents to course instructors or to Joyce, director of student affairs, School of Finance (Room 840, the Executive Building), within a week. For students who take more than 3-week leave, an official statement should be approved by the Dean of faculty. 
 
 2. Students are required to learn Havard reference system, and should know the consequences of academic dishonesty (e.g., plagiarism). If your assignments were found by plagiarism or be highly similar with others', those assignments are graded zero. 
 
