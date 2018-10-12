@@ -10,3 +10,9 @@ Be noted:
 3. No late submission of reports are allowed unless students grant the extension from course instructor at least 2 weeks before the deadline with a formal statement. In the statement, any student should state clearly the reason to delay the submission, and also needs to specify the date of submission (in most cases, the submission should be 2-week late than the deadline.). Once approved, students are allowed for late submission. 
 
 You will find individual assignment coversheet in this branch. Just download it, print it out in A4 paper (no need to be color print), and write required information on it (DON'T TRANSFER THAT FILE IN WORD!!). 
+
+Oct 12, 2018 
+
+I uploaded class notes in the files of Lecture 2 and Lecture 3, respectively. 
+
+I uploaded homework in the files of Lecture 3, which we will discuss next week. 
