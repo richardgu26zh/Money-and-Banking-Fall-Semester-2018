@@ -16,3 +16,7 @@ Oct 12, 2018
 I uploaded class notes in the files of Lecture 2 and Lecture 3, respectively. 
 
 I uploaded homework in the files of Lecture 3, which we will discuss next week. 
+
+Students are suggested to take reading notes about the following chapters. Chapter 1 - Why study financial markets? Why study financial institutions and banking? Chapter 2 (all sections) ; Chapter 4 (all sections); Chapter 6 (all sections). 
+
+As required in Syllabus, reading notes are required to use Latex, no excuses granted for reading notes with Word format. 
