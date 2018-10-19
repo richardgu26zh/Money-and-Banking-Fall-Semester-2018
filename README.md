@@ -11,12 +11,12 @@ Be noted:
 
 You will find individual assignment coversheet in this branch. Just download it, print it out in A4 paper (no need to be color print), and write required information on it (DON'T TRANSFER THAT FILE IN WORD!!). 
 
-Oct 12, 2018 
+Oct 12, 2018 updated on Oct 19, 2018
 
 I uploaded class notes in the files of Lecture 2 and Lecture 3, respectively. 
 
 I uploaded homework in the files of Lecture 3, which we will discuss next week. 
 
-Students are suggested to take reading notes about the following chapters. Chapter 1 - Why study financial markets? Why study financial institutions and banking? Chapter 2 (all sections) ; Chapter 4 (all sections); Chapter 6 (all sections). 
+Students are suggested to take reading notes about the following chapters. Chapter 1 - Why study financial markets? Why study financial institutions and banking? Chapter 2 (all sections) ; Chapter 4 (all sections); Chapter 6 (all sections); Chapter 3 (all sections); Chapter 21 (10th edition) or Chapter 19 (9th edition) Chapter title is "Demand for Money". 
 
 As required in Syllabus, reading notes are required to use Latex, no excuses granted for reading notes with Word format. 
