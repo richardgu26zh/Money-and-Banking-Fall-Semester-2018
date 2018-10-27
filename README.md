@@ -17,7 +17,7 @@ I uploaded class notes in the files of Lecture 2 and Lecture 3, respectively.
 
 I uploaded homework in the files of Lecture 3, which we will discuss next week. 
 
-Students are suggested to take reading notes about the following chapters. Chapter 1 - Why study financial markets? Why study financial institutions and banking? Chapter 2 (all sections) ; Chapter 4 (all sections); Chapter 6 (all sections); Chapter 3 (all sections); Chapter 20 (10th edition) or Chapter 19 (9th edition) Chapter title is "Demand for Money". 
+Students are suggested to take reading notes about the following chapters. Chapter 1 - Why study financial markets? Why study financial institutions and banking? Chapter 2 (all sections) ; Chapter 4 (all sections); Chapter 6 (all sections); Chapter 3 (all sections); Chapter 21 (10th edition) or Chapter 19 (9th edition) Chapter title is "Demand for Money". 
 
 The first reading note is required to handed in Nov.9, 2018, in class. No late submission (exception granted for those apply for late submission at least one week before the deadline, with official statements and appropriate reasons) is allowed. Here is a short tutorial that I recorded this morning to assist you. You need to download from Baidu Could Driver (weblink：https://pan.baidu.com/s/1KfwfbkwSFAVDpo-CbOu7ow 
 pin：zxjz)
