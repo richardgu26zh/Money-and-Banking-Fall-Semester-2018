@@ -34,6 +34,6 @@ The second reading note is required to handed in Nov 30., 2018.  No late submiss
 
 Nov 10, 2018
 
-I just uploaded Harvard Reference in the course website, and also recorded a new tutorial vedio about how to cite in Latex in Baidu Cloud Driver (link：https://pan.baidu.com/s/1XK7-_K0qYKTfI1YjP-pQwg pin：pg5a).
+I just uploaded Harvard Reference in the course website, and also recorded a new tutorial vedio about how to cite in Latex in Baidu Cloud Driver (weblink：https://pan.baidu.com/s/10L5DQb5oz1FKZ5xf997wWQ pin：sqlf).
 
 
