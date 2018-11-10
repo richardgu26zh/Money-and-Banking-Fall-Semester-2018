@@ -32,4 +32,8 @@ Students are suggested to take reading notes about the following chapters. Chapt
 
 The second reading note is required to handed in Nov 30., 2018.  No late submission (exception granted for those apply for late submission at least one week before the deadline, with official statements and appropriate reasons) is allowed. As required in Syllabus, reading notes are required to use Latex, no excuses granted for reading notes with Word format. 
 
+Nov 10, 2018
+
+I just uploaded Harvard Reference in the course website, and also recorded a new tutorial vedio about how to cite in Latex in Baidu Cloud Driver (link：https://pan.baidu.com/s/1XK7-_K0qYKTfI1YjP-pQwg pin：pg5a).
+
 
